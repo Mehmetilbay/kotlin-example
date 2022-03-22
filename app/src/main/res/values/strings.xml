@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kotlin Example</string>
+    <string name="qr_decoder_title">QR Code Decoder</string>
+    <string name="qr_decoder_button_gallery_text">Pick a QR Code</string>
+    <string name="qr_decoder_permission_text">Please confirm gallery permissions to scan QR codes from Gallery</string>
+    <string name="qr_code_result_text">Result: %s</string>
+
+    <string name="fx_list_title">Döviz Listesi</string>
+    <string name="fx_detail_title">Döviz Detay</string>
+    <string name="fx_detail_bank_buy">Banka Alış</string>
+    <string name="fx_detail_bank_sell">Banka Satış</string>
+    <string name="fx_detail_daily_change">Günlük Fark</string>
+    <string name="fx_detail_percentage">%% %s</string>
+    <string name="fx_detail_info_text">Banka alış, banka satış ve günlük fark anlık değerleri göstermektedir.</string>
+
+</resources>
